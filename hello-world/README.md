@@ -1,4 +1,3 @@
 # maven-project
 
-Simple Maven Project
-suceess
+Simple Maven Projec
